@@ -1,9 +1,9 @@
 {
-	"name": "crafting_combinator",
-	"version": "0.16.3",
+	"name": "crafting_combinator_minimal",
+	"version": "0.0.1",
 	"factorio_version": "1.1",
-	"title": "Crafting Combinator",
-	"author": "LuziferSenpai and TheRustyKnife",
-	"description": "Includes combinators that allow you to set or read the recipe of any crafting machine, get ingredients or products of a recipe and more!",
-	"dependencies": ["base", "rusty-locale"]
+	"title": "Crafting Combinator - Minimal",
+	"author": "WePlay",
+	"description": "Includes combinators that allow you to set or read the recipe of any crafting machine, get ingredients or products of a recipe and more! Forked from the original Crafting Combinator and had most of its guts ripped out in the hopes of UPS gains at the gigabase cityblock scale.",
+	"dependencies": ["base", "rusty-locale", "! crafting_combinator"]
 }
